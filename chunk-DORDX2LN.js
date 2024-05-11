@@ -1,0 +1,1 @@
+import{P as r,k as o}from"./chunk-V5W2Z3ES.js";var n=(()=>{let t=class t{constructor(){this.dataSubject=new o(""),this.data$=this.dataSubject.asObservable()}sendData(a){this.dataSubject.next(a)}};t.\u0275fac=function(i){return new(i||t)},t.\u0275prov=r({token:t,factory:t.\u0275fac,providedIn:"root"});let e=t;return e})();export{n as a};
